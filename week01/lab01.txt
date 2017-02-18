@@ -23,3 +23,7 @@ drwxr-xr-x  2 muhammad.izzuddin51 StafCS 4096 Feb 17 08:09 week09
 drwxr-xr-x  2 muhammad.izzuddin51 StafCS 4096 Feb 17 08:09 week10
 drwxr-xr-x  2 muhammad.izzuddin51 StafCS 4096 Feb 17 08:09 xtra
 /home/fasilkom/mahasiswa/m/muhammad.izzuddin51/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
