@@ -27,3 +27,4 @@ Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
 Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
 Today is 
 Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 18 Feb 2017 at 12:20:14
