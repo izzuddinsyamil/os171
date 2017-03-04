@@ -1,0 +1,20 @@
+/*
+* Name: M. Izzuddin Syamil
+* NPM: 1506731832
+* Class: D
+* Comment: this week's task intrigues me!
+*/
+#define LOOP 4//define me!
+#define INPUT 5
+#include <stdio.h>
+void main() {
+nt input = 5;//define me!
+ int temp = 0;
+ // TO DO implement me!!
+ int i;
+ for(i = 1; i <= LOOP; i++){
+  temp += input;
+ }
+ printf(INPUT  " times "  LOOP  " equals ");
+}
+
